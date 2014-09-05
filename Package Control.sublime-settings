@@ -1,0 +1,25 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CSScomb",
+		"DocBlockr",
+		"Emmet",
+		"Git",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"LESS",
+		"Markdown Preview",
+		"Monokai Extended",
+		"SFTP",
+		"Shell Turtlestein",
+		"SublimeLinter",
+		"SublimeLinter-html-tidy",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
+		"Terminal",
+		"Text Pastry",
+		"Theme - Flatland"
+	]
+}
