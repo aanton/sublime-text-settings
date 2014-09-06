@@ -2,10 +2,12 @@
     { "keys": ["ctrl+,"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
     { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
     { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["ctrl+shift+alt+t"], "command": "reopen_last_file" }, // Avoid collision with Terminal package
 
     { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_minimap" },
     { "keys": ["ctrl+k", "ctrl+r"], "command": "reindent" , "args": {"single_line": false} },
 
-    // Plugins
+    // Packages
+    { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" }, // Terminal
     {"keys": ["ctrl+shift+c"], "command": "shell_prompt"} // Shell Turtlestein
 ]
