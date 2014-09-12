@@ -5,9 +5,10 @@
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }, // Avoid collision with Terminal package
 
     { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_minimap" },
-    { "keys": ["ctrl+k", "ctrl+r"], "command": "reindent" , "args": {"single_line": false} },
+    { "keys": ["ctrl+k", "ctrl+r"], "command": "reindent", "args": {"single_line": false} },
+    { "keys": ["ctrl+k", "ctrl+i"], "command": "set_encoding", "args": {"encoding": "Western (ISO 8859-1)"} },
 
     // Packages
     { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" }, // Terminal
-    {"keys": ["ctrl+shift+c"], "command": "shell_prompt"} // Shell Turtlestein
+    { "keys": ["ctrl+shift+c"], "command": "shell_prompt" } // Shell Turtlestein
 ]
