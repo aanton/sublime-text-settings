@@ -1,7 +1,7 @@
 [
     { "keys": ["ctrl+,"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
-    { "keys": ["ctrl+7"], "command": "toggle_comment", "args": { "block": false } },
-    { "keys": ["ctrl+shift+7"], "command": "toggle_comment", "args": { "block": true } },
+    { "keys": ["ctrl+keypad_divide"], "command": "toggle_comment", "args": { "block": false } },
+    { "keys": ["ctrl+shift+keypad_divide"], "command": "toggle_comment", "args": { "block": true } },
     { "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }, // Avoid collision with Terminal package
 
     { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_minimap" },
