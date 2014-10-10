@@ -1,6 +1,7 @@
 {
-	"extensions":
-	[
-		"md"
-	]
+    "color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+    "extensions":
+    [
+        "md"
+    ]
 }
