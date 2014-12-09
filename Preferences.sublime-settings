@@ -1,4 +1,6 @@
 {
+	"caret_extra_width": 1,
+	"caret_style": "solid",
 	"color_scheme": "Packages/User/Flatland Monokai (SL).tmTheme",
 	"default_encoding": "UTF-8",
 	"draw_white_space": "all",
@@ -11,7 +13,10 @@
 	[
 		"Vintage"
 	],
+	"indent_guide_options": ["draw_normal", "draw_active"],
 	"line_numbers": true,
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
 	"rulers":
 	[
 		80,
