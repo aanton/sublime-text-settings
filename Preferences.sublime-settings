@@ -1,7 +1,7 @@
 {
 	"caret_extra_width": 1,
 	"caret_style": "solid",
-	"color_scheme": "Packages/User/SublimeLinter/primer.dark (SL).tmTheme",
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"default_encoding": "UTF-8",
 	"dictionary": "Packages/User/Spanish.dic",
 	"draw_white_space": "all",
@@ -20,8 +20,8 @@
 		"draw_active"
 	],
 	"line_numbers": true,
-	"line_padding_bottom": 1,
-	"line_padding_top": 1,
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
 	"rulers":
 	[
 		80,
@@ -29,7 +29,7 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Primer Dark.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!#%^&*|+=[]{}`~?",

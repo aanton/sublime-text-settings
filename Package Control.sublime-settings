@@ -16,6 +16,7 @@
 		"LESS",
 		"Markdown Extended",
 		"Markdown Preview",
+		"Material Theme",
 		"Monokai Extended",
 		"nginx",
 		"Package Control",
@@ -29,7 +30,6 @@
 		"SublimeLinter-php",
 		"Terminal",
 		"Text Pastry",
-		"Theme - Flatland",
-		"Theme - Primer"
+		"Theme - Flatland"
 	]
 }
