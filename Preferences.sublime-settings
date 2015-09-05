@@ -1,7 +1,7 @@
 {
 	"caret_extra_width": 1,
 	"caret_style": "solid",
-	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"color_scheme": "Packages/Theme - Primer/primer.dark.tmTheme",
 	"default_encoding": "UTF-8",
 	"dictionary": "Packages/User/Spanish.dic",
 	"draw_white_space": "all",
@@ -29,7 +29,8 @@
 	],
 	"show_encoding": true,
 	"show_line_endings": true,
-	"theme": "Material-Theme-Darker.sublime-theme",
+	"theme": "Primer Dark.sublime-theme",
+	"theme_primer_sidebar_tree_small": true,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_separators": "./\\()\"':,.;<>~!#%^&*|+=[]{}`~?",
