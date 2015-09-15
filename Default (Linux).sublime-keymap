@@ -8,7 +8,14 @@
     { "keys": ["ctrl+k", "ctrl+r"], "command": "reindent", "args": {"single_line": false} },
     { "keys": ["ctrl+k", "ctrl+i"], "command": "set_encoding", "args": {"encoding": "Western (ISO 8859-1)"} },
 
-    // Packages
-    { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" }, // Terminal
-    { "keys": ["ctrl+shift+c"], "command": "shell_prompt" } // Shell Turtlestein
+    // Package Terminal
+    { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" },
+
+    // Package Shell Turtlestein
+    { "keys": ["ctrl+shift+c"], "command": "shell_prompt" },
+
+    // Package PHP Companion
+    { "keys": ["f5"], "command": "find_use" },
+    { "keys": ["f6"], "command": "expand_fqcn" },
+    { "keys": ["shift+f6"], "command": "expand_fqcn", "args": {"leading_separator": true} }
 ]
