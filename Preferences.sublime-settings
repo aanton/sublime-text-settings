@@ -12,6 +12,9 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Material Theme",
+		"SFTP",
+		"Theme - Flatland",
 		"Vintage"
 	],
 	"indent_guide_options":
