@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"BracketHighlighter",
 		"CodeComplice",
 		"CSScomb",
 		"DocBlockr",
@@ -15,17 +14,13 @@
 		"GitGutter",
 		"Hasher",
 		"HTML-CSS-JS Prettify",
-		"jQuery",
 		"LESS",
 		"Markdown Extended",
 		"Markdown Preview",
-		"Material Theme",
 		"Monokai Extended",
 		"nginx",
 		"Package Control",
 		"PHP Companion",
-		"Print to HTML",
-		"SFTP",
 		"Shell Turtlestein",
 		"SublimeLinter",
 		"SublimeLinter-html-tidy",
@@ -34,7 +29,6 @@
 		"SublimeLinter-php",
 		"Terminal",
 		"Text Pastry",
-		"Theme - Flatland",
 		"Theme - Primer"
 	]
 }

@@ -6,7 +6,6 @@
 
     { "keys": ["ctrl+k", "ctrl+m"], "command": "toggle_minimap" },
     { "keys": ["ctrl+k", "ctrl+r"], "command": "reindent", "args": {"single_line": false} },
-    { "keys": ["ctrl+k", "ctrl+i"], "command": "set_encoding", "args": {"encoding": "Western (ISO 8859-1)"} },
 
     // Package Terminal
     { "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" },
