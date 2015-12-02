@@ -1,0 +1,4 @@
+[
+	// ExpandRegion
+	{ "keys": ["ctrl+shift+space"], "command": "expand_region" }
+]

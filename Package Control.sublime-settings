@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Colorsublime",
+		"ExpandRegion",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer"
+	]
+}
