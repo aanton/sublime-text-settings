@@ -3,6 +3,10 @@
 	{ "keys": ["ctrl+keypad_divide"], "command": "toggle_comment", "args": { "block": false } },
 	{ "keys": ["ctrl+shift+keypad_divide"], "command": "toggle_comment", "args": { "block": true } },
 
+	// Terminal
+	{ "keys": ["ctrl+shift+t"], "command": "reopen_last_file" }, // Avoid collision with Terminal package
+	{ "keys": ["ctrl+shift+alt+t"], "command": "open_terminal" },
+
 	// ExpandRegion
 	{ "keys": ["ctrl+shift+space"], "command": "expand_region" },
 
