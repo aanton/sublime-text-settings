@@ -21,6 +21,7 @@
 		"PHP Getters and Setters",
 		"SublimeLinter",
 		"SublimeLinter-php",
-		"Terminal"
+		"Terminal",
+		"Varnish VCL"
 	]
 }
