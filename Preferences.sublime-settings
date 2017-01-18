@@ -1,6 +1,5 @@
 {
 	"always_show_minimap_viewport": true,
-	"bold_folder_labels": true,
 	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
 	"draw_white_space": "all",
 	"fade_fold_buttons": false,
@@ -35,6 +34,5 @@
 	"theme": "Material-Theme.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": true,
-	"wrap_width": 0
+	"word_wrap": true
 }

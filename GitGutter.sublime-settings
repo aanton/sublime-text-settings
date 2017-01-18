@@ -1,0 +1,6 @@
+{
+    "diff_popup_default_mode": "diff",
+    "live_mode": true,
+    "show_markers_on_untracked_file": true,
+    "show_status": "none"
+}

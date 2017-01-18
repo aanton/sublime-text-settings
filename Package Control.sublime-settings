@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"AdvancedNewFile",
 		"Emmet",
+		"ExpandRegion",
+		"Git",
+		"GitGutter",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Material Theme",
