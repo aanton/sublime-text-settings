@@ -1,4 +1,3 @@
 [
-	// PHP Companion
-	{"button": "button1", "count": 1, "modifiers": ["shift","ctrl"],"press_command": "drag_select","command": "goto_definition_scope"}
+  {"button": "button1", "count": 1, "modifiers": ["shift","ctrl"],"press_command": "drag_select","command": "goto_definition"}
 ]

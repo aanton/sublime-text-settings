@@ -1,8 +1,0 @@
-{
-    // Disable all languages by default, enable it by project:
-    // "codeintel_settings":
-    // {
-    //     "codeintel_enabled_languages": ["PHP"]
-    // },
-    "codeintel_enabled_languages": []
-}

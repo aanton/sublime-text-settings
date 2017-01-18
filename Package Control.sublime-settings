@@ -5,24 +5,11 @@
 	],
 	"installed_packages":
 	[
-		"AdvancedNewFile",
-		"CodeComplice",
-		"Colorsublime",
 		"Emmet",
-		"ExpandRegion",
-		"FileDiffs",
-		"Git",
-		"GitGutter",
 		"Markdown Extended",
 		"Markdown Preview",
 		"Material Theme",
 		"Package Control",
-		"PackageResourceViewer",
-		"PHP Companion",
-		"PHP Getters and Setters",
-		"SublimeLinter",
-		"SublimeLinter-php",
-		"Terminal",
-		"Varnish VCL"
+		"Terminal"
 	]
 }
