@@ -15,6 +15,10 @@
 		"Open URL",
 		"Package Control",
 		"PackageResourceViewer",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-json",
+		"SublimeLinter-php",
 		"Terminal"
 	]
 }
