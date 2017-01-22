@@ -1,3 +1,4 @@
 {
-    "shell_cmd": "google-chrome '$file'"
+    "shell_cmd": "google-chrome '$file'",
+    "selector": "source.json, text.html.markdown"
 }

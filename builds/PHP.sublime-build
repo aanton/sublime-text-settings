@@ -1,0 +1,5 @@
+{
+    "shell_cmd": "php '$file'",
+    "file_regex": "^PHP Parse error: .* in (.*?) on line ([0-9]*)",
+    "selector": "source.php"
+}
