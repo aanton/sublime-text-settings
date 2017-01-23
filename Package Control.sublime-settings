@@ -20,6 +20,7 @@
 		"SublimeLinter-jshint",
 		"SublimeLinter-json",
 		"SublimeLinter-php",
-		"Terminal"
+		"Terminal",
+		"View In Browser"
 	]
 }
