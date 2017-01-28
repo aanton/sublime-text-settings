@@ -21,6 +21,7 @@
 		"SublimeLinter-json",
 		"SublimeLinter-php",
 		"Terminal",
-		"View In Browser"
+		"View In Browser",
+		"Zeal"
 	]
 }
