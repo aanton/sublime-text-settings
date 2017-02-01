@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"Dockerfile Syntax Highlighting",
 		"Emmet",
 		"ExpandRegion",
 		"Git",
@@ -13,6 +14,7 @@
 		"LiveReload",
 		"Markdown Extended",
 		"Material Theme",
+		"nginx",
 		"Open URL",
 		"Package Control",
 		"PackageResourceViewer",
