@@ -13,11 +13,14 @@
     // ExpandRegion
     { "keys": ["ctrl+shift+space"], "command": "expand_region" },
 
+    // AdvancedNewFile
+    { "keys": ["ctrl+super+n"], "command": "advanced_new_file_new"},
+
     // PHP Companion
-    { "keys": ["ctrl+shift+i"], "command": "find_use",
+    { "keys": ["ctrl+super+i"], "command": "find_use",
         "context": [{"key":"selector", "operator": "equal", "operand": "source.php"}] },
-    { "keys": ["ctrl+shift+e"], "command": "expand_fqcn", "args": {"leading_separator": true},
+    { "keys": ["ctrl+super+e"], "command": "expand_fqcn", "args": {"leading_separator": true},
         "context": [{"key":"selector", "operator": "equal", "operand": "source.php"}] },
-    { "keys": ["ctrl+shift+c"], "command": "insert_php_constructor_property",
+    { "keys": ["ctrl+super+c"], "command": "insert_php_constructor_property",
         "context": [{"key":"selector", "operator": "equal", "operand": "source.php"}] }
 ]
